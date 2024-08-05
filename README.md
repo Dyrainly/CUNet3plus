@@ -21,7 +21,7 @@ Article address:https://www.sciencedirect.com/science/article/pii/S0002944024002
 
 Address:https://huggingface.co/spaces/lanhongyi2000/CUNet3plus
 
-https://github.com/Dyrainly/CUNet3plus/blob/main/supplment.mp4
+![image](https://github.com/Dyrainly/CUNet3plus/blob/main/supplment_.gif)
 
 ## Some improvements I made to the model:
 
